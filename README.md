@@ -4,9 +4,13 @@ this project is about a chat server implemented in C++ , I used irssi as a clien
 •••••• Usage •••••• :
 
 run the makefile to compile the source code to an executable using this commande :
-    make
+                                                            make
+
+                                                            
 then run the executable with two parameters:
-    ./ircserv <port> <password>
+                                                            ./ircserv <port> <password>
+
+                                                            
 • port: The port number on which your IRC server will be listening to for incoming
 IRC connections.
 • password: The connection password. It will be needed by any IRC client that tries to connect to your server.
