@@ -45,7 +45,7 @@ then run the executable with two parameters:
         · k: Set/remove the channel key (password)
         · o: Give/take channel operator privilege
   
-  • Handle file transfer. via DCC
+  • Handle file transfer. via DCC protocol . initialization of the connection by the chat-server then the trasfere is done from client-to-client
   
   • A bot. exist in every channels and displays informations about the channel (users / admin / topic)
   
